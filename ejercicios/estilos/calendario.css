@@ -1,0 +1,32 @@
+body{
+
+	font-family: sans-serif;
+	text-align: center;
+
+}
+table{
+	border-collapse: collapse;
+	text-align: center;
+	width: 500px;
+	border-color: #000;
+	margin: 0 auto;
+}
+
+td{
+	background-color: #F0F0F0;
+	color: #393939;
+}
+
+th{
+	font-weight: bolder;
+	background-color: #393939;
+	color: #F0F0F0;
+}
+
+input{
+	text-align: center;
+}
+
+.botonEnviar{
+	background-color: red;
+}
